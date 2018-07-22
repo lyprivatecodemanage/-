@@ -1,0 +1,10 @@
+1.nmp webpack 包管理
+2.localStorage 本地存储
+3.canvas 画布
+4.js字符串三种形似
+5.web worker 
+6.promise 异步通信
+7.AMD和CMD
+8.语法糖Class的定义
+9.es6
+10.requireJs
